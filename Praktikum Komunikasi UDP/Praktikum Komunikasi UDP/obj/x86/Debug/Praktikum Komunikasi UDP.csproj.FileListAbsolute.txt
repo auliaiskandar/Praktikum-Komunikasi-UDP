@@ -1,0 +1,7 @@
+C:\Users\Mhs\Desktop\Praktikum Komunikasi UDP\Praktikum Komunikasi UDP\bin\Debug\Praktikum Komunikasi UDP.exe
+C:\Users\Mhs\Desktop\Praktikum Komunikasi UDP\Praktikum Komunikasi UDP\bin\Debug\Praktikum Komunikasi UDP.pdb
+C:\Users\Mhs\Desktop\Praktikum Komunikasi UDP\Praktikum Komunikasi UDP\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mhs\Desktop\Praktikum Komunikasi UDP\Praktikum Komunikasi UDP\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mhs\Desktop\Praktikum Komunikasi UDP\Praktikum Komunikasi UDP\obj\x86\Debug\Praktikum Komunikasi UDP.csproj.GenerateResource.Cache
+C:\Users\Mhs\Desktop\Praktikum Komunikasi UDP\Praktikum Komunikasi UDP\obj\x86\Debug\Praktikum Komunikasi UDP.exe
+C:\Users\Mhs\Desktop\Praktikum Komunikasi UDP\Praktikum Komunikasi UDP\obj\x86\Debug\Praktikum Komunikasi UDP.pdb
